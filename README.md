@@ -137,15 +137,60 @@ kainex/
 │   └── main.jsx
 ```
 
+## 🌐 Live Demo
+
+🔗 https://kainex.netlify.app/
+
 ---
 
-## 📊 Sample Data (Simulation)
+## 💰 Revenue Model
 
-Ambassador:
+Kainex follows a scalable **SaaS + performance-based model**:
 
-* Streak: 12 days
-* Points: 2450
-* Rank: #8
+### 🔹 Subscription Plans
+
+* **Starter** – Basic ambassador management
+* **Pro** – Advanced analytics, automation, leaderboard insights
+* **Enterprise** – Custom integrations, dedicated support
+
+---
+
+### 🔹 Pay-Per-Performance
+
+* Companies are charged based on:
+
+  * Number of referrals
+  * Conversions (signups, installs, etc.)
+
+---
+
+### 🔹 Campaign Boosting
+
+* Paid promotion of campaigns to:
+
+  * Increase visibility
+  * Reach top-performing ambassadors
+
+---
+
+### 🔹 Premium Analytics
+
+* Advanced insights:
+
+  * Engagement trends
+  * ROI tracking
+  * Performance breakdowns
+* Available as paid add-ons
+
+---
+
+### 🔹 Future Monetization
+
+* API integrations with CRM/marketing tools
+* White-label solutions for organizations
+* AI-powered campaign optimization tools
+
+---
 
 ---
 
